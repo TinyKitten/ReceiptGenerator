@@ -1,2 +1,5 @@
 # ReceiptGenerator
-Inconvenience market receipt generator on the Rails.
+
+![Sample Receipt](https://raw.githubusercontent.com/TinyKitten/ReceiptGenerator/master/sample.png "Sample Receipt")
+
+Inconvenience market receipt generator.
