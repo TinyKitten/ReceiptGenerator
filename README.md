@@ -1,2 +1,3 @@
 # ReceiptGenerator
-Inconvenience market receipt generator on the Rails.
+
+Inconvenience market receipt generator.
