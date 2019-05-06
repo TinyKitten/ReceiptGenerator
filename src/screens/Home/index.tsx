@@ -61,7 +61,7 @@ const HomeScreen: React.FC = () => {
         .getStage()
         .toDataURL({ pixelRatio: window.devicePixelRatio });
       a.href = dataUrl;
-      a.download = 'test.png';
+      a.download = 'receipt.png';
       a.click();
     }
   };
